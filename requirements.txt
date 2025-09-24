@@ -1,0 +1,5 @@
+pyrogram==2.0.0
+tgcrypto==1.3.2
+pytgcalls==0.7.1
+yt-dlp==2025.9.20
+ffmpeg-python==0.2.1
